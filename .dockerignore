@@ -1,0 +1,6 @@
+node_modules/
+build/
+kubectl
+frontend-deployment.yaml
+frontend-ingress.yaml
+frontend-service.yaml

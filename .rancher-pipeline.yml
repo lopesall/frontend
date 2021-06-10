@@ -1,0 +1,5 @@
+stages:
+- name: Build
+  steps:
+  - runScriptsConfig:
+      sh 'ls -ltra' 
